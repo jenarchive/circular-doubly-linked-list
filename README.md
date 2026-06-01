@@ -19,7 +19,7 @@ This project provides a robust, low-level implementation of a **circular doubly-
 
 The implementation includes a full set of functions for dynamic list manipulation, many of which operate in $O(1)$ time due to the sentinel structure:
 
-* **Initialization and Cleanup**: `newList()`, `freeList()` (deallocates all nodes, including the sentinel).
+* **Initialisation and Cleanup**: `newList()`, `freeList()` (deallocates all nodes, including the sentinel).
 * **Insertion**: `insertAfter()`, `insertBefore()`, and other related functions.
 * **Deletion**: `deleteNode()` and functions to remove nodes by position or data.
 * **Traversal**: `moveNext()`, `movePrev()`, and functions to retrieve data from the current node pointer.
