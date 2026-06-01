@@ -1,4 +1,4 @@
-# 🔗 C Implementation of a Circular Doubly-Linked List with Sentinel Node
+# C Implementation of a Circular Doubly-Linked List with Sentinel Node
 
 ## Overview
 
